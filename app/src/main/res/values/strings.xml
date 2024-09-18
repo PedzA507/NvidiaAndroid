@@ -1,0 +1,4 @@
+<resources>
+    <string name="root_url">http://192.168.1.49:3000</string>
+    <string name="app_name">Nvidia</string>
+</resources>
